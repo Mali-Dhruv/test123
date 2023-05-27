@@ -1,1 +1,1 @@
-console.log("Helloo linux how are uou")
+console.log("Helloo linux how are ooooou")
